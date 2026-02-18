@@ -1,0 +1,179 @@
+Age,Weight,Height,Experience,Goal,Exercise,WeightLifted,Reps,Sets,Progress
+23,75,175,Beginner,Hypertrophy,Bench Press,45,10,4,5
+31,88,180,Intermediate,Strength,Squat,100,5,4,10
+45,92,170,Advanced,Strength,Deadlift,140,4,4,8
+28,70,160,Beginner,Hypertrophy,Bench Press,40,10,4,6
+22,82,175,Intermediate,Strength,Squat,120,5,4,7
+34,110,180,Advanced,Endurance,Deadlift,150,8,5,12
+25,65,165,Beginner,Hypertrophy,Bench Press,45,10,4,4
+30,85,176,Intermediate,Hypertrophy,Squat,90,8,4,6
+38,95,178,Advanced,Strength,Deadlift,180,5,4,9
+40,78,168,Intermediate,Hypertrophy,Leg Press,100,10,4,7
+27,76,170,Beginner,Strength,Deadlift,100,6,4,6
+35,105,185,Advanced,Strength,Squat,180,4,5,11
+26,80,172,Intermediate,Hypertrophy,Leg Press,120,8,4,8
+50,98,160,Advanced,Strength,Deadlift,160,4,4,10
+41,90,185,Intermediate,Endurance,Squat,100,8,4,9
+33,72,162,Beginner,Hypertrophy,Leg Press,50,12,4,5
+24,85,174,Intermediate,Strength,Bench Press,70,6,4,6
+39,95,182,Advanced,Strength,Deadlift,150,5,4,7
+29,78,165,Beginner,Strength,Bench Press,60,8,4,4
+23,75,175,Beginner,Hypertrophy,Bench Press,45,10,4,5
+31,88,180,Intermediate,Strength,Squat,110,5,4,10
+45,92,170,Advanced,Strength,Deadlift,150,4,4,8
+28,70,160,Beginner,Hypertrophy,Bench Press,40,10,4,6
+22,82,175,Intermediate,Strength,Squat,120,5,4,7
+34,110,180,Advanced,Endurance,Deadlift,160,8,5,12
+25,65,165,Beginner,Hypertrophy,Bench Press,50,10,4,4
+30,85,176,Intermediate,Hypertrophy,Squat,95,8,4,6
+38,95,178,Advanced,Strength,Deadlift,190,5,4,9
+40,78,168,Intermediate,Hypertrophy,Leg Press,110,10,4,7
+27,76,170,Beginner,Strength,Deadlift,100,6,4,6
+35,105,185,Advanced,Strength,Squat,190,4,5,11
+26,80,172,Intermediate,Hypertrophy,Leg Press,120,8,4,8
+50,98,160,Advanced,Strength,Deadlift,170,4,4,10
+41,90,185,Intermediate,Endurance,Squat,110,8,4,9
+33,72,162,Beginner,Hypertrophy,Leg Press,55,12,4,5
+24,85,174,Intermediate,Strength,Bench Press,75,6,4,6
+39,95,182,Advanced,Strength,Deadlift,160,5,4,7
+29,78,165,Beginner,Strength,Bench Press,65,8,4,4
+32,92,177,Intermediate,Hypertrophy,Deadlift,100,8,3,7
+47,110,180,Advanced,Strength,Squat,200,4,5,15
+26,88,176,Intermediate,Strength,Leg Press,140,6,4,8
+30,85,169,Beginner,Endurance,Deadlift,80,8,3,6
+42,95,174,Advanced,Strength,Squat,180,5,4,10
+23,70,167,Intermediate,Hypertrophy,Bench Press,60,9,3,5
+30,80,170,Beginner,Hypertrophy,Deadlift,70,8,3,6
+36,100,180,Advanced,Strength,Squat,160,4,5,9
+27,75,160,Beginner,Strength,Deadlift,100,6,3,5
+31,95,173,Intermediate,Hypertrophy,Bench Press,80,8,4,7
+33,90,180,Intermediate,Strength,Leg Press,110,7,4,8
+43,95,175,Advanced,Strength,Squat,190,5,4,11
+28,76,169,Beginner,Hypertrophy,Bench Press,55,10,3,6
+44,105,182,Intermediate,Strength,Deadlift,120,6,4,7
+39,120,188,Advanced,Strength,Squat,210,4,5,14
+50,95,165,Advanced,Strength,Bench Press,140,6,3,10
+34,83,168,Intermediate,Hypertrophy,Deadlift,90,8,3,7
+38,110,175,Beginner,Strength,Deadlift,120,6,3,4
+26,85,172,Intermediate,Strength,Squat,110,7,3,6
+29,80,180,Intermediate,Hypertrophy,Leg Press,100,9,3,8
+35,98,180,Advanced,Strength,Squat,150,5,4,9
+41,102,170,Intermediate,Hypertrophy,Deadlift,115,8,4,6
+24,90,175,Beginner,Strength,Bench Press,50,10,3,5
+29,95,178,Intermediate,Strength,Leg Press,125,6,3,7
+36,75,182,Advanced,Strength,Deadlift,160,5,4,8
+22,70,168,Beginner,Hypertrophy,Bench Press,40,12,3,3
+30,82,176,Intermediate,Strength,Squat,110,8,4,7
+39,78,165,Advanced,Strength,Leg Press,160,5,5,10
+28,85,180,Intermediate,Hypertrophy,Deadlift,90,9,3,6
+41,95,173,Advanced,Strength,Bench Press,180,6,3,10
+32,100,179,Intermediate,Hypertrophy,Squat,120,8,4,7
+33,72,160,Intermediate,Strength,Leg Press,130,7,4,8
+30,78,175,Beginner,Strength,Squat,90,8,4,5
+37,90,167,Intermediate,Hypertrophy,Bench Press,65,9,3,6
+35,98,179,Advanced,Strength,Deadlift,170,4,5,9
+22,80,176,Beginner,Strength,Bench Press,55,10,3,5
+31,92,183,Intermediate,Strength,Squat,115,7,3,7
+48,110,170,Advanced,Strength,Deadlift,180,5,4,12
+43,97,175,Beginner,Strength,Leg Press,120,8,3,5
+28,85,172,Intermediate,Hypertrophy,Deadlift,100,7,4,6
+25,78,180,Intermediate,Strength,Bench Press,85,6,3,7
+34,90,160,Intermediate,Hypertrophy,Leg Press,110,8,3,6
+40,110,177,Advanced,Strength,Squat,200,4,5,10
+45,120,185,Advanced,Strength,Deadlift,210,4,5,10
+39,98,170,Intermediate,Strength,Squat,130,6,4,8
+38,95,168,Advanced,Strength,Leg Press,150,5,4,9
+28,80,172,Beginner,Hypertrophy,Deadlift,70,8,3,4
+30,85,176,Intermediate,Strength,Deadlift,120,6,3,8
+36,92,185,Advanced,Strength,Bench Press,170,5,4,10
+22,75,168,Beginner,Hypertrophy,Deadlift,50,9,3,5
+37,88,180,Intermediate,Strength,Squat,110,7,4,7
+43,105,175,Advanced,Strength,Deadlift,190,4,5,10
+24,80,160,Intermediate,Hypertrophy,Bench Press,60,10,3,6
+41,85,178,Beginner,Hypertrophy,Leg Press,50,12,3,4
+26,95,170,Intermediate,Strength,Deadlift,120,7,4,8
+30,100,180,Advanced,Strength,Squat,180,5,4,10
+35,85,165,Beginner,Strength,Leg Press,80,8,3,5
+30,92,175,Intermediate,Strength,Bench Press,90,7,3,6
+48,110,180,Advanced,Strength,Deadlift,220,5,5,10
+27,72,160,Intermediate,Hypertrophy,Squat,90,9,3,7
+29,88,170,Intermediate,Strength,Deadlift,130,6,3,8
+32,75,175,Intermediate,Strength,Leg Press,100,8,3,6
+35,102,182,Advanced,Strength,Squat,190,4,5,11
+40,98,177,Intermediate,Hypertrophy,Deadlift,110,7,4,7
+46,120,185,Advanced,Strength,Bench Press,200,4,5,10
+28,80,168,Beginner,Hypertrophy,Deadlift,60,10,3,6
+41,88,175,Intermediate,Strength,Leg Press,115,7,4,6
+34,96,173,Intermediate,Hypertrophy,Deadlift,110,8,3,6
+22,85,180,Beginner,Hypertrophy,Squat,70,8,4,5
+28,90,169,Intermediate,Strength,Deadlift,130,7,4,8
+44,100,182,Intermediate,Hypertrophy,Bench Press,95,8,3,7
+37,110,170,Advanced,Strength,Squat,220,4,5,14
+33,88,175,Intermediate,Strength,Deadlift,130,7,4,6
+27,80,165,Beginner,Hypertrophy,Leg Press,60,10,3,4
+45,105,178,Advanced,Strength,Squat,190,5,5,10
+24,77,180,Intermediate,Strength,Bench Press,70,8,4,7
+36,98,172,Intermediate,Hypertrophy,Deadlift,100,8,3,7
+31,90,165,Beginner,Strength,Deadlift,70,10,3,5
+28,82,173,Intermediate,Strength,Leg Press,110,7,3,6
+22,70,160,Beginner,Hypertrophy,Squat,55,10,3,5
+30,85,178,Intermediate,Hypertrophy,Bench Press,80,8,4,6
+38,92,180,Advanced,Strength,Deadlift,160,6,4,9
+25,75,170,Beginner,Strength,Squat,90,8,3,4
+33,80,175,Intermediate,Strength,Deadlift,110,7,3,8
+42,100,178,Advanced,Strength,Leg Press,180,5,5,10
+27,82,168,Intermediate,Hypertrophy,Squat,100,8,3,7
+35,95,160,Intermediate,Strength,Bench Press,120,7,4,8
+31,110,180,Advanced,Strength,Deadlift,200,4,5,10
+29,86,176,Intermediate,Strength,Leg Press,130,7,4,7
+32,85,169,Beginner,Hypertrophy,Squat,60,10,3,6
+40,95,173,Advanced,Strength,Bench Press,150,5,5,10
+28,77,164,Intermediate,Strength,Deadlift,115,8,4,7
+34,85,174,Intermediate,Strength,Squat,110,8,3,6
+39,100,182,Advanced,Strength,Leg Press,170,5,5,9
+30,88,170,Intermediate,Hypertrophy,Deadlift,90,9,3,5
+26,80,175,Beginner,Hypertrophy,Bench Press,50,12,3,5
+32,92,178,Intermediate,Strength,Squat,120,8,4,6
+40,95,179,Advanced,Strength,Deadlift,180,5,4,10
+36,98,168,Intermediate,Hypertrophy,Leg Press,100,8,3,7
+29,82,177,Beginner,Strength,Squat,70,10,3,6
+45,120,185,Advanced,Strength,Deadlift,200,4,5,10
+33,88,170,Intermediate,Hypertrophy,Deadlift,110,8,4,6
+41,94,175,Intermediate,Strength,Bench Press,120,7,3,8
+27,78,160,Beginner,Strength,Leg Press,50,10,3,4
+34,105,180,Advanced,Strength,Deadlift,190,5,5,10
+30,85,172,Intermediate,Hypertrophy,Bench Press,80,9,3,7
+38,95,180,Advanced,Strength,Leg Press,150,6,4,8
+25,80,178,Intermediate,Strength,Squat,110,7,3,6
+41,95,173,Intermediate,Hypertrophy,Deadlift,110,7,4,7
+27,90,165,Beginner,Strength,Leg Press,60,10,3,5
+33,90,175,Intermediate,Strength,Bench Press,110,8,4,6
+28,83,167,Intermediate,Hypertrophy,Squat,95,9,3,5
+36,98,180,Advanced,Strength,Deadlift,160,5,5,10
+24,80,172,Beginner,Strength,Leg Press,70,10,3,4
+32,92,180,Intermediate,Strength,Deadlift,130,6,3,8
+41,96,178,Advanced,Strength,Squat,180,5,4,9
+29,88,170,Intermediate,Hypertrophy,Bench Press,90,8,3,6
+40,100,179,Advanced,Strength,Leg Press,150,6,5,10
+28,76,165,Intermediate,Strength,Squat,85,9,3,7
+31,100,173,Intermediate,Strength,Deadlift,140,7,3,8
+35,94,168,Advanced,Strength,Bench Press,140,6,4,10
+42,110,180,Intermediate,Hypertrophy,Leg Press,160,5,4,7
+28,79,170,Beginner,Strength,Deadlift,60,10,3,4
+37,85,176,Intermediate,Strength,Squat,95,8,3,7
+33,100,178,Intermediate,Strength,Deadlift,150,6,3,9
+30,90,173,Intermediate,Strength,Bench Press,120,7,4,6
+61,85,170,Beginner,Strength,Squat,40,10,3,2
+63,90,172,Intermediate,Hypertrophy,Leg Press,60,8,3,4
+62,80,160,Beginner,Endurance,Deadlift,40,10,3,3
+64,78,168,Intermediate,Strength,Bench Press,50,8,3,5
+65,95,175,Advanced,Strength,Deadlift,90,5,4,8
+67,100,180,Intermediate,Strength,Squat,70,6,3,7
+66,88,174,Beginner,Hypertrophy,Leg Press,55,8,3,4
+60,85,165,Intermediate,Hypertrophy,Deadlift,60,8,4,6
+68,92,169,Advanced,Strength,Squat,120,4,4,9
+69,75,160,Beginner,Strength,Bench Press,40,10,3,4
+70,98,175,Intermediate,Strength,Deadlift,80,6,4,5
+72,88,170,Beginner,Strength,Leg Press,50,10,3,3
+74,95,180,Advanced,Strength,Squat,110,5,4,12
+75,105,178,Intermediate,Hypertrophy,Deadlift,70,8,3,6
