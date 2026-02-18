@@ -1,2 +1,3 @@
-# weightlifting-predictor
-predict where someone is in their weightlifting journey with machine learning
+# gains-ml
+
+Track how far someone is in their workout journey using ML.
