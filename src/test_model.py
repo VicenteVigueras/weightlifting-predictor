@@ -1,7 +1,6 @@
 import pandas as pd
 from core import predict_progress
 
-
 df = pd.read_csv("../resources/sample_test.csv")
 
 def test_model():
@@ -26,7 +25,7 @@ def test_model():
 
     return predictions, actual
 
-def average(predictions, actual):
+def average(predictions, actual): 
     accuracy = []
     total_error = 0
     count = 0
@@ -47,4 +46,6 @@ def average(predictions, actual):
 
 
 predictions, actual = test_model()
-average(predictions,actual)
+print("predictions: ", predictions)
+print("actual: ", actual)
+

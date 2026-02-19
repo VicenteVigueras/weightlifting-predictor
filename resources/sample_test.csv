@@ -1,12 +1,12 @@
 Age,Weight,Height,Experience,Goal,Exercise,WeightLifted,Reps,Sets,Progress
-23,75,175,Beginner,Hypertrophy,Squat,45,10,4,446
-31,88,180,Intermediate,Strength,Squat,100,5,4,506
-45,92,170,Advanced,Strength,Deadlift,140,4,4,536
-28,70,160,Beginner,Hypertrophy,Bench Press,40,10,4,426
-22,82,175,Intermediate,Strength,Squat,120,5,4,465
-34,110,180,Advanced,Endurance,Deadlift,150,8,5,578
-25,65,165,Beginner,Hypertrophy,Bench Press,45,10,4,410
-20,90,185,Intermediate,Strength,Squat,80,8,4,495
-40,95,180,Advanced,Strength,Deadlift,130,6,5,545
-36,85,175,Beginner,Strength,Bench Press,50,12,4,502
+23,75,175,Beginner,Hypertrophy,Squat,45,10,4,5
+31,88,180,Intermediate,Strength,Squat,100,5,4,4
+45,92,170,Advanced,Strength,Deadlift,140,4,4,3
+28,70,160,Beginner,Hypertrophy,Bench Press,40,10,4,5
+22,82,175,Intermediate,Strength,Squat,120,5,4,2
+34,110,180,Advanced,Endurance,Deadlift,150,8,5,10
+25,65,165,Beginner,Hypertrophy,Bench Press,45,10,4,4
+20,90,185,Intermediate,Strength,Squat,80,8,4,5
+40,95,180,Advanced,Strength,Deadlift,130,6,5,3
+36,85,175,Beginner,Strength,Bench Press,50,12,4,3
 
