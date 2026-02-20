@@ -1,5 +1,9 @@
 import numpy as np
 
+"""
+This will be used to derive the model and understand how the beta coefficients are calculated.
+"""
+
 # model a sample equation in the form of y=β0​+β1​x
 X = np.array([
     [1, 1],

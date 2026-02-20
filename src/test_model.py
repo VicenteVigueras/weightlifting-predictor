@@ -1,5 +1,11 @@
 import pandas as pd
-from core import predict_progress
+from model import predict_progress
+
+"""
+This needs re-work to be more of a unit test and less of a manual test.
+The idea is to have a test dataset with known values and then compare the predictions from the model to the actual values in the test dataset. 
+We can calculate the average error and accuracy of the model based on these predictions.
+"""
 
 df = pd.read_csv("../resources/sample_test.csv")
 
