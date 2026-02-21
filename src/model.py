@@ -2,6 +2,11 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
+"""
+The model currently uses normal equation to calculate the beta coefficients, but this can prove
+innefcient for multiple features and categorical variables.
+"""
+
 df = pd.read_csv("../resources/sample.csv")
 
 label_encoder_experience = LabelEncoder()
